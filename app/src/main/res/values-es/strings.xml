@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ESP-Bank Account</string>
+
+    <string name="btnBank">ESP-Bank</string>
+    <string name="btnInfo">ESP-Info</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="actNm">ESP-Account Name</string>
+    <string name="actNmet">ESP-Checking</string>
+    <string name="balancetv">ESP-Balance</string>
+    <string name="appinfo">ESP-Bank Account Ian Matlak v2.0</string>
+    <string name="btnaddacc">ESP-Add Account</string>
+    <string name="tvaccnam">ESP-Account name</string>
+    <string name="tvaccbal">ESP-Account balance</string>
+    <string name="btnsave">ESP-Save</string>
+</resources>

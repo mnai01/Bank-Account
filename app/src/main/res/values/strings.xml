@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bank Account</string>
+
+    <string name="btnBank">Bank</string>
+    <string name="btnInfo">Info</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="actNm">Account Name</string>
+    <string name="actNmet">Checking</string>
+    <string name="balancetv">Balance</string>
+    <string name="appinfo">Bank Account Ian Matlak v2.0</string>
+    <string name="btnaddacc">Add Account</string>
+    <string name="tvaccnam">Account name</string>
+    <string name="tvaccbal">Account balance</string>
+    <string name="btnsave">Save</string>
+</resources>
